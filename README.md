@@ -20,9 +20,6 @@ Installation
 
 Clone this repository to your local machine:
 
-bash
-git clone <repository-url>
-
 Navigate to the cloned directory and use the provided Makefile to compile the project:
 
 bash
