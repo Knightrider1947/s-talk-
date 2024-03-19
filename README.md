@@ -1,4 +1,4 @@
-# s-talk-
+# s-talk
 
 stalk (simple-talk)
 Overview
